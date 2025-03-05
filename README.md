@@ -5,11 +5,11 @@ I am André 👨‍💻, a software developer and student at [Escola Superior de
 ---
 
 ## 🔧 Technologies & Tools
-🖥️ **Languages:** Java, C#, JavaScript, Python, C, PHP, HTML, SQL, PL/SQL   
+🖥️ **Languages:** Java, C#, JavaScript, Python, C, PHP, HTML, SQL, PL/SQL, Kotlin   
 🛠️ **Frameworks:** .NET, Vue, Laravel, Nuxt.js, Tailwind  
 📦 **Databases:** Oracle Database, Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis, Neo4j  
 🌍 **DevOps:** Docker, Git, Kubernetes  
-🎨 **Others:** Figma, Linux, Altair RapidMiner, Google Firebase, JakartaEE, WSL, Jira
+🎨 **Others:** Figma, Linux, Altair RapidMiner, Google Firebase, JakartaEE, WSL, Jira, Android
 
 ---
 
