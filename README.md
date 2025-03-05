@@ -1,15 +1,15 @@
-# Hello! 👋 Welcomo to my GitHub profile
+# Hello! 👋 Welcome to my GitHub profile
 
 I am André 👨‍💻, a software developer and student at [Escola Superior de Tecnologia e Gestão](https://www.ipleiria.pt/estg/) 
 
 ---
 
 ## 🔧 Technologies & Tools
-🖥️ **Languages:** Java, C#, JavaScript, Python, C, PHP, HTML, SQL, PL/SQL, Kotlin   
+🖥️ **Languages:** Java, C#, JavaScript, Python, C, PHP, HTML, SQL, PL/SQL, Kotlin, Arduino  
 🛠️ **Frameworks:** .NET, Vue, Laravel, Nuxt.js, Tailwind  
 📦 **Databases:** Oracle Database, Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis, Neo4j  
 🌍 **DevOps:** Docker, Git, Kubernetes  
-🎨 **Others:** Figma, Linux, Altair RapidMiner, Google Firebase, JakartaEE, WSL, Jira, Android, TensorFlow, Nvidia CUDA
+🎨 **Others:** Figma, Linux, Altair RapidMiner, Google Firebase, JakartaEE, WSL, Jira, Android, TensorFlow, Nvidia CUDA, Cisco Packet Tracer
 
 ---
 
@@ -37,6 +37,6 @@ I am André 👨‍💻, a software developer and student at [Escola Superior de
 📩 **Email:** [andremrguerra@gmail.com](mailto:andremrguerra@gmail.com) 
 <!--
 💼 **LinkedIn:** 
-🌍 **Portfólio:** -->
+🌍 **Portfolio:** -->
 
 --- 
