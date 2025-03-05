@@ -9,7 +9,7 @@ I am André 👨‍💻, a software developer and student at [Escola Superior de
 🛠️ **Frameworks:** .NET, Vue, Laravel, Nuxt.js, Tailwind  
 📦 **Databases:** Oracle Database, Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis, Neo4j  
 🌍 **DevOps:** Docker, Git, Kubernetes  
-🎨 **Others:** Figma, Linux, Altair RapidMiner, Google Firebase, JakartaEE, WSL, Jira, Android
+🎨 **Others:** Figma, Linux, Altair RapidMiner, Google Firebase, JakartaEE, WSL, Jira, Android, TensorFlow, Nvidia CUDA
 
 ---
 
@@ -18,13 +18,18 @@ I am André 👨‍💻, a software developer and student at [Escola Superior de
 
 🔹 [SOMIOD](https://github.com/ddinis-pt/IS) – This project is part of the Integration of Systems course, focusing on the development of the SOMIOD middleware,a service-oriented platform for interoperability and open data in IoT environments, using RESTful APIs and XML data structures. 
 
-🔹 [Projeto DAD](https://github.com/ddinis-pt/DAD) – single-page application (SPA) for the "Memory Game" platform, using Vue.js framework for the development of the web client, a Restful API server with Laravel and a WebSocket server with JavaScript.  
+🔹 [Projeto DAD](https://github.com/ddinis-pt/DAD) – This project is part of the Distributed Application Development course, focusing on the development of a single-page application (SPA) for the "Memory Game" platform, using Vue.js framework for the development of the web client, a Restful API server with Laravel and a WebSocket server with JavaScript.  
 
 ---
 
 ## 📊 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreGuerra20&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreGuerra20&layout=compact&theme=radical)  
+
+---
+
+## 📜 Certificates
+🔹
 
 ---
 
