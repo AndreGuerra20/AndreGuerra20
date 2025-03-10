@@ -20,6 +20,7 @@ I am André 👨‍💻, a software developer and student at [Escola Superior de
 
 🔹 [Projeto DAD](https://github.com/ddinis-pt/DAD) – This project is part of the Distributed Application Development course, focusing on the development of a single-page application (SPA) for the "Memory Game" platform, using Vue.js framework for the development of the web client, a Restful API server with Laravel and a WebSocket server with JavaScript.  
 
+🔹 [esp32 E-Paper Weather Display](https://github.com/AndreGuerra20/esp32-e-paper-wpd) – This project is a DIY Weather Display that uses both [OpenWeather's One Call API 3.0](https://openweathermap.org/api) and a BME280 temperature,pressure and humidity sensor for indoors readings.
 ---
 
 ## 📊 GitHub Statistics
