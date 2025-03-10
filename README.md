@@ -29,8 +29,9 @@ I am André 👨‍💻, a software developer and student at [Escola Superior de
 ---
 
 ## 📜 Certificates
-🔹[Katalon Studio for Beginners: How to Create and Execute Automated Tests](https://academy.katalon.com/courses/create-execute-automated-tests/) - [My Certificate](https://github.com/AndreGuerra20/AndreGuerra20/blob/main/Certificates/KatalonStudioCertificate.png)
-
+🔹[Katalon Studio for Beginners: How to Create and Execute Automated Tests](https://academy.katalon.com/courses/create-execute-automated-tests/) - [Proof of Completion](https://github.com/AndreGuerra20/AndreGuerra20/blob/main/Certificates/KatalonStudioCertificate.png)  
+🔹[Foundations of Git](https://learn.gitkraken.com/courses/git-foundations) - [My Certificate](https://github.com/AndreGuerra20/AndreGuerra20/blob/main/Certificates/GitKrakenCertificate.pdf)  
+🔹[Get the most out of Jira for Atlassian Partners](https://university.atlassian.com/student/path/815443-get-the-most-out-of-jira-for-atlassian-partners?enrollment_id=345343242) - [My Certificate](https://github.com/AndreGuerra20/AndreGuerra20/blob/main/Certificates/GetTheMostOutOfJiraCertificate.png)  
 ---
 
 ## 📫 How to reach me  
