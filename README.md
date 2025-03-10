@@ -29,7 +29,7 @@ I am André 👨‍💻, a software developer and student at [Escola Superior de
 ---
 
 ## 📜 Certificates
-🔹
+🔹[Katalon Studio for Beginners: How to Create and Execute Automated Tests](https://academy.katalon.com/courses/create-execute-automated-tests/) - [My Certificate](https://github.com/AndreGuerra20/AndreGuerra20/blob/main/Certificates/KatalonStudioCertificate.png)
 
 ---
 
